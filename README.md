@@ -15,6 +15,6 @@ This repository contains two folders:
 ## 2. Next.js Application
 
 ### Getting Started
-1. Navigate to the `next-app` directory: `cd next-app`
+1. Navigate to the `next` directory: `cd next-app`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
